@@ -1,5 +1,8 @@
 # Práctica Evaluar Analizador Descendente Predictivo Recursivo
 
+Este repo contiene el código de partida para la práctica de laboratorio
+*Evaluar Analizador Descendente Predictivo Recursivo*
+
 ### Forma de trabajo
 
 * Use su portátil o su cuenta en c9 para llevar a cabo los objetivos planteados.
