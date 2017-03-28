@@ -19,7 +19,7 @@ Esta es la gramática para la que tiene que escribir un analizador recursivo des
 Donde:
 
             ADDOP = /[+-]/
-            MULOP = /[*/]
+            MULOP = /[*\/]/
             ID = /[a-z_]\w*/i
             NUM = /\d+/
 
