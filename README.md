@@ -29,7 +29,7 @@ Donde:
 ### Hitos
 
 1. Use el repo de GitHub dado por la asignación de esta tarea 
-2. Escriba un analizador sintáctico para la gramática dada
+2. Escriba un analizador sintáctico para la gramática dada: rellene las partes que faltan en el fichero [public/main.js](https://github.com/ULL-ESIT-PL-1617/evalua-pdr/blob/master/public/main.js)
 3. Añada código para que evalúe las expresiones
 
 ### Recursos
